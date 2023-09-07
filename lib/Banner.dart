@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_app/CreatAccount.dart';
-import 'package:flutter_app/Op.dart';
-
 class Baner extends StatelessWidget {
   const Baner({Key? key}) : super(key: key);
   static const String Ban='Baner';

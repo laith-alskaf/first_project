@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_app/CreatAccount.dart';
 import 'Image continer.dart';
 import 'Banner.dart';
 

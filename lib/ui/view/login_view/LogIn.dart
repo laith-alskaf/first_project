@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_app/CreatAccount.dart';
-import 'Banner.dart';
+import '../../../Banner.dart';
 
 class LogIn extends StatefulWidget {
   static const String Log = "LogIn";

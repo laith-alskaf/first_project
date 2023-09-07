@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_app/Banner.dart';
-import 'package:flutter_app/CreatAccount.dart';
+
 import 'package:flutter_app/Op.dart';
 
 class chek extends StatefulWidget {
